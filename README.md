@@ -32,6 +32,8 @@
 1. Code Review
 1. Testing
 1. Monitoring and Logging
+    1. [Creating a Culture of Observability
+](http://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
 1. IC
     1. [The Mysterious Journey of Becoming a Senior Engineer](https://www.youtube.com/watch?v=s2g9Kz6-Vq4&list=PLqXy0aX6TzQoSoP5hb7bX7MkcKeH96_Hs&index=3&t=1052s) - Shem Magnezi (Reversim 2021)
     1. [Architecting for a Reasonable Future](https://www.youtube.com/watch?v=1_MDwZVh99o&list=PLqXy0aX6TzQpiHuy7cP5JWXWi64Cm5ZzI&index=8&t=1548s) - Tomer Gabel (Reversim 2021)
