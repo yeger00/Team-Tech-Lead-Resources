@@ -6,6 +6,7 @@
 
 ## English Podcasts
 1. [Managers tools](https://www.manager-tools.com/map-universe/manager-basics-trinity)
+    1. Recommended to start with [Manager Tools Basics](https://www.manager-tools.com/manager-tools-basics)
 1. [Leading Snowflakes](https://pod.co/leading-snowflakes-john)
 
 ## Newsletters and lists
@@ -27,11 +28,14 @@
 1. One on One
     1. Manager tools hall of fame ([1](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1), [2](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-2), [3](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3))
 1. Feedback
-1. Coaching
-1. Delegation
-1. Code Review
-1. Testing
-1. Monitoring and Logging
+    1. Manager tools feedback model - [pdf](https://www.manager-tools.com/node/98050/view), [podcasts](https://www.manager-tools.com/2005/07/giving-effective-feedback)
+3. Coaching
+    1. Manager tools coaching model - [podcasts](https://www.manager-tools.com/2009/07/coaching-model-revised)
+5. Delegation
+    1. Manager tools delegation model - [podcasts](https://www.manager-tools.com/map-universe/delegation-hall-fame)
+7. Code Review
+8. Testing
+9. Monitoring and Logging
     1. [Creating a Culture of Observability
 ](http://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
     1. [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc)
