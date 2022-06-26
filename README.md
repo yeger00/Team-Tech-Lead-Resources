@@ -26,7 +26,7 @@
 
 ## By Topic
 1. One on One
-    1. Manager tools hall of fame ([1](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1), [2](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-2), [3](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3))
+    1. Manager tools hall of fame - [pdf](https://files.manager-tools.com/files/private/documents/docs/Manager-Tools_One_on_One_Basics.pdf), [podcasts](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
 1. Feedback
     1. Manager tools feedback model - [pdf](https://www.manager-tools.com/node/98050/view), [podcasts](https://www.manager-tools.com/2005/07/giving-effective-feedback)
 1. Coaching
