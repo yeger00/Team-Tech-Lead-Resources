@@ -20,6 +20,7 @@
 
 ## Meetups
 1. [Tech leads IL](https://www.meetup.com/Tech-Leads-IL/?_cookie-check=tTaWX_leDfjyIGZx)
+1. [Leaders in Tech](https://www.facebook.com/groups/leadersintechclub)
 
 ## Conferences
 1. Reversim ([2021 homepage](https://summit2021.reversim.com/), [Youtube playlists](https://www.youtube.com/c/Reversim-summit))
