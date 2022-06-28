@@ -6,6 +6,7 @@
 
 ## English Podcasts
 1. [Managers tools](https://www.manager-tools.com/map-universe/manager-basics-trinity)
+    1. Recommended to start with [Manager Tools Basics](https://www.manager-tools.com/manager-tools-basics)
 1. [Leading Snowflakes](https://pod.co/leading-snowflakes-john)
 
 ## Newsletters and lists
@@ -25,10 +26,13 @@
 
 ## By Topic
 1. One on One
-    1. Manager tools hall of fame ([1](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1), [2](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-2), [3](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3))
+    1. Manager tools hall of fame - [pdf](https://files.manager-tools.com/files/private/documents/docs/Manager-Tools_One_on_One_Basics.pdf), [podcasts](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1)
 1. Feedback
+    1. Manager tools feedback model - [pdf](https://www.manager-tools.com/node/98050/view), [podcasts](https://www.manager-tools.com/2005/07/giving-effective-feedback)
 1. Coaching
+    1. Manager tools coaching model - [podcasts](https://www.manager-tools.com/2009/07/coaching-model-revised)
 1. Delegation
+    1. Manager tools delegation model - [podcasts](https://www.manager-tools.com/map-universe/delegation-hall-fame)
 1. Code Review
 1. Testing
 1. Monitoring and Logging
