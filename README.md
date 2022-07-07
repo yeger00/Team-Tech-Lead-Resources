@@ -17,9 +17,11 @@
 1. [Manager in shorts](https://www.amazon.com/MANAGER-SHORTS-shocking-management-leadership-ebook/dp/B08CPFRKRW) - Gal Zellermayer
 1. [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) - Patrick M. Lencioni
 1. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - George Spafford and Kevin Behr
+1. [Empowered](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X) - Marty Cagan 
 
 ## Meetups
 1. [Tech leads IL](https://www.meetup.com/Tech-Leads-IL/?_cookie-check=tTaWX_leDfjyIGZx)
+1. [Leaders in Tech](https://www.facebook.com/groups/leadersintechclub)
 
 ## Conferences
 1. Reversim ([2021 homepage](https://summit2021.reversim.com/), [Youtube playlists](https://www.youtube.com/c/Reversim-summit))
