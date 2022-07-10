@@ -40,7 +40,7 @@
 1. OKRs and KPIs
     1. [Creating a Culture of Observability
 ](http://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
-    1. [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc)
+    1. How Google sets goals: OKRs ([video](https://www.youtube.com/watch?v=mJB83EZtAjc), [blog](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7))
     1. [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/)
     1. Gitlab's [OKR](https://about.gitlab.com/company/okrs/)s and [KPI](https://about.gitlab.com/company/kpis/)s
 1. IC
