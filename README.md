@@ -59,6 +59,7 @@
     1. How Google sets goals: OKRs ([video](https://www.youtube.com/watch?v=mJB83EZtAjc), [blog](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7))
     1. [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/)
     1. Gitlab's [OKR](https://about.gitlab.com/company/okrs/)s and [KPI](https://about.gitlab.com/company/kpis/)s
+    1. [Measuring an engineering organization](https://lethain.com/measuring-engineering-organizations/)
 1. IC
     1. [The Mysterious Journey of Becoming a Senior Engineer](https://www.youtube.com/watch?v=s2g9Kz6-Vq4&list=PLqXy0aX6TzQoSoP5hb7bX7MkcKeH96_Hs&index=3&t=1052s) - Shem Magnezi (Reversim 2021)
     1. [Architecting for a Reasonable Future](https://www.youtube.com/watch?v=1_MDwZVh99o&list=PLqXy0aX6TzQpiHuy7cP5JWXWi64Cm5ZzI&index=8&t=1548s) - Tomer Gabel (Reversim 2021)
