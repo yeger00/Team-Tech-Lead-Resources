@@ -66,3 +66,6 @@
     1. [Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw) - Tanya Reilly
     1. [מפרחח לתותח עם יפתח](https://open.spotify.com/episode/3D4uC5Y53sr8z8tiDJ6mPG?si=CuQEEaQ9SN-FDsNtWd_lgg&utm_source=whatsapp)
     1. [הג'וקר - מה זה באמת אומר להיות מפתח טוב? - מפתחים חסרי תרבות](https://open.spotify.com/episode/56cVxeQpEyTvMzi0KGfkfe?si=YuUQtFY9QNeu5hJXBx0rag&utm_source=whatsapp)
+1. Platform Teams
+    1. [Designing for Habitability](https://www.youtube.com/watch?v=lDSMDJXmOps)
+    1. [צוותי פלטפורמה במפתחים חסרי תרבות](https://open.spotify.com/episode/5ZfxZGX42bbhQtk7buUO9L?si=93021ea69e2e4062)
