@@ -25,6 +25,7 @@
 
 ## Books
 
+1. [Radical Candor(https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375) - Kim Scott
 1. [Manager in shorts](https://www.amazon.com/MANAGER-SHORTS-shocking-management-leadership-ebook/dp/B08CPFRKRW) - Gal Zellermayer
 1. [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) - Patrick M. Lencioni
 1. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - George Spafford and Kevin Behr
